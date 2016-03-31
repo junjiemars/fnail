@@ -1,0 +1,6 @@
+[package]
+name = "fnail"
+version = "0.1.0"
+authors = ["junjie"]
+
+[dependencies]
